@@ -1,0 +1,14 @@
+D:\Coding\RiderProj\LoLApi\League\bin\Debug\netcoreapp2.2\League.deps.json
+D:\Coding\RiderProj\LoLApi\League\bin\Debug\netcoreapp2.2\League.runtimeconfig.json
+D:\Coding\RiderProj\LoLApi\League\bin\Debug\netcoreapp2.2\League.runtimeconfig.dev.json
+D:\Coding\RiderProj\LoLApi\League\bin\Debug\netcoreapp2.2\League.dll
+D:\Coding\RiderProj\LoLApi\League\bin\Debug\netcoreapp2.2\League.pdb
+D:\Coding\RiderProj\LoLApi\League\obj\Debug\netcoreapp2.2\League.csprojAssemblyReference.cache
+D:\Coding\RiderProj\LoLApi\League\obj\Debug\netcoreapp2.2\League.csproj.CoreCompileInputs.cache
+D:\Coding\RiderProj\LoLApi\League\obj\Debug\netcoreapp2.2\League.RazorAssemblyInfo.cache
+D:\Coding\RiderProj\LoLApi\League\obj\Debug\netcoreapp2.2\League.RazorAssemblyInfo.cs
+D:\Coding\RiderProj\LoLApi\League\obj\Debug\netcoreapp2.2\League.AssemblyInfoInputs.cache
+D:\Coding\RiderProj\LoLApi\League\obj\Debug\netcoreapp2.2\League.AssemblyInfo.cs
+D:\Coding\RiderProj\LoLApi\League\obj\Debug\netcoreapp2.2\League.RazorTargetAssemblyInfo.cache
+D:\Coding\RiderProj\LoLApi\League\obj\Debug\netcoreapp2.2\League.dll
+D:\Coding\RiderProj\LoLApi\League\obj\Debug\netcoreapp2.2\League.pdb
